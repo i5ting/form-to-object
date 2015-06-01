@@ -48,3 +48,5 @@ function form2obj(form) {
 
   return body
 }
+
+module.exports = form2obj;
